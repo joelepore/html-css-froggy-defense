@@ -15,6 +15,6 @@ Buon divertimento!
 
 ## Screenshots
 ### Flexbox Froggy 
-![screenshot](./screenshot-froggy.png)
+![screenshot](./screenshot-froggy.jpg)
 ### Flexbox Defense 
-![screenshot](./screenshot-defense.png)
+![screenshot](./screenshot-defense.jpg)
