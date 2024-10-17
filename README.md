@@ -12,3 +12,7 @@ Aiutatevi con le istruzioni che troverete nei giochi e con la guida di CSS trick
 https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 
 Buon divertimento!
+
+## Screenshots
+### Flexbox Froggy 
+![screenshot](./screenshot-froggy.png)
